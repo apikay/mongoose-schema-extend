@@ -27,15 +27,15 @@
   ],
   "license": "BSD-3-Clause",
   "dependencies": {
-    "owl-deepcopy": "~0.0.1"
+    "owl-deepcopy": "~0.0.4"
   },
   "devDependencies": {
-    "glob": "^5.0.15",
+    "glob": "^6.0.1",
     "grunt": "^0.4.5",
     "grunt-cli": "^0.1.13",
     "grunt-mocha-test": "^0.12.7",
-    "mocha": "^2.3.3",
-    "mongoose": "^4.2.4",
-    "should": "~1.1.0"
+    "mocha": "^2.3.4",
+    "mongoose": "^4.2.8",
+    "should": "~7.1.1"
   }
 }
